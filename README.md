@@ -1,4 +1,5 @@
 ### Hi there 👋
+```php
 <?php
 
 namespace PutraPratamaNst;
@@ -34,6 +35,7 @@ class About extends Me
         return 'Code, Sleep, Repeat!';
     }
 }
+```
 
 <!--
 **putrapratamanst/putrapratamanst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
