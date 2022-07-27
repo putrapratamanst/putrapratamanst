@@ -2,7 +2,7 @@
 ```php
 <?php
 
-namespace PutraPratamaNst;
+namespace Putra;
 
 class About extends Me
 {
